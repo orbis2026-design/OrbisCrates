@@ -8,7 +8,7 @@
 
   ![](https://repo.nightexpressdev.com/api/badge/latest/releases/su/nightexpress/excellentcrates/ExcellentCrates?color=40c14a&name=ExcellentCrates&prefix=v)
 
-**ExcellentCrates** is a lightweight, feature rich and highly customizable crates plugin.
+**orbiscrates** is a lightweight, feature rich and highly customizable crates plugin.
 
 <img src="https://nightexpressdev.com/img/excellentcrates/crate_editor.gif"><img src="https://nightexpressdev.com/img/excellentcrates/gui_opening.gif">
 <img src="https://nightexpressdev.com/img/excellentcrates/block_opening.gif"><img src="https://nightexpressdev.com/img/excellentcrates/promo_crate_preview.gif">
